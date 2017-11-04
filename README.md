@@ -21,3 +21,9 @@ detail :
 - Wellbeing = experiment in tracking and valuing spending explicitly for health + wellbeing. (Alanna has some health challenges which we've chosen to invest more in).
 - Bills are just fixed ongoing payments
 
+---
+
+```
+origin  git@github.com:mixmix/relationship.git
+ssb     ssb://%Qx6xT81O0GArL/d9Ez3aZWbYq1OrjMYNhS+ZjmQNY5o=.sha256
+```
